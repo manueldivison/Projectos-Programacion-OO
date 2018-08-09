@@ -1,0 +1,19 @@
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\bin\Debug\MinesTest.exe.config
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\bin\Debug\MinesTest.exe
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\bin\Debug\MinesTest.pdb
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.csprojResolveAssemblyReference.cache
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.Mines.resources
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.Properties.Resources.resources
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.csproj.GenerateResource.Cache
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.exe
+c:\users\20157480\documents\visual studio 2015\Projects\MinesTest\MinesTest\obj\Debug\MinesTest.pdb
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\bin\Debug\MinesTest.exe.config
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\bin\Debug\MinesTest.exe
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\bin\Debug\MinesTest.pdb
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.csprojAssemblyReference.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.Mines.resources
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.Properties.Resources.resources
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.csproj.GenerateResource.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.csproj.CoreCompileInputs.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.exe
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\MinesTest\MinesTest\obj\Debug\MinesTest.pdb

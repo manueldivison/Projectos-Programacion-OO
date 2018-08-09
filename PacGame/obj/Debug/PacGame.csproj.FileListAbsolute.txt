@@ -1,0 +1,10 @@
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\bin\Debug\PacGame.exe.config
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\bin\Debug\PacGame.exe
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\bin\Debug\PacGame.pdb
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.csprojAssemblyReference.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.Form1.resources
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.Properties.Resources.resources
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.csproj.GenerateResource.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.csproj.CoreCompileInputs.cache
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.exe
+C:\Users\Juan M\Desktop\pucmm\8\Programacion\PacGame\PacGame\obj\Debug\PacGame.pdb
